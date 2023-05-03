@@ -1,3 +1,4 @@
 FastAPI
 gunicorn
-
+scikit-learn
+pickle5
